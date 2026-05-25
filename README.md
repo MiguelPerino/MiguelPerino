@@ -17,7 +17,7 @@
 
 ## Sobre mim
 
-Sou estudante de Sistemas de Informação na UTFPR, com foco em desenvolvimento back-end. Estou construindo uma base sólida em Python e Java, criação de APIs REST, estruturas de dados e algoritmos — com um projeto de iniciação científica em otimização combinatória.
+Sou estudante de Sistemas de Informação na UTFPR, com foco em desenvolvimento back-end. Estou construindo uma base sólida em Python e Java, criação de APIs REST, estruturas de dados e algoritmos.
 
 - 🎓 Cursando **Sistemas de Informação** na UTFPR
 - 🐍 Desenvolvendo projetos em **Python** e **Flask**
