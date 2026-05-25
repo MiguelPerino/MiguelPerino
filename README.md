@@ -1,4 +1,4 @@
-<h1 align="center">Olá, me chamo Miguel Perino 👋</h1>
+<h1 align="center">Olá, sou o Miguel Perino 👋</h1>
 
 <p align="center">
   Estudante de Sistemas de Informação na <strong>UTFPR</strong> · Apaixonado por desenvolvimento de software e resolução de problemas
@@ -17,7 +17,7 @@
 
 ## Sobre mim
 
-Sou estudante de Sistemas de Informação na UTFPR, com foco em desenvolvimento back-end. Estou construindo uma base sólida em Python e Java, criação de APIs REST, estruturas de dados e algoritmos.
+Sou estudante de Sistemas de Informação na UTFPR, com foco em desenvolvimento back-end. Estou construindo uma base sólida em Python e Java, criação de APIs REST, estruturas de dados e algoritmos — com um projeto de iniciação científica em otimização combinatória.
 
 - 🎓 Cursando **Sistemas de Informação** na UTFPR
 - 🐍 Desenvolvendo projetos em **Python** e **Flask**
@@ -89,18 +89,22 @@ Estudos e exercícios práticos sobre princípios de código limpo em Python.
 
 ---
 
-## 📊 Estatísticas
+## 💻 Linguagens mais usadas
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MiguelPerino&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak"/>
-</p>
+![Python](https://img.shields.io/badge/Python-70%25-3776AB?style=flat&logo=python&logoColor=white)
+![](https://progress-bar.xyz/70/?width=400&color=3776AB&bg=1a1b27)
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MiguelPerino&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Estatísticas"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelPerino&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Linguagens"/>
-</p>
+![Java](https://img.shields.io/badge/Java-10%25-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![](https://progress-bar.xyz/10/?width=400&color=ED8B00&bg=1a1b27)
 
-> ⚠️ Se as imagens acima não carregarem, é instabilidade temporária do serviço externo (github-readme-stats). Tente recarregar a página.
+![JavaScript](https://img.shields.io/badge/JavaScript-8%25-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![](https://progress-bar.xyz/8/?width=400&color=F7DF1E&bg=1a1b27)
+
+![HTML](https://img.shields.io/badge/HTML-7%25-E34F26?style=flat&logo=html5&logoColor=white)
+![](https://progress-bar.xyz/7/?width=400&color=E34F26&bg=1a1b27)
+
+![CSS](https://img.shields.io/badge/CSS-5%25-1572B6?style=flat&logo=css3&logoColor=white)
+![](https://progress-bar.xyz/5/?width=400&color=1572B6&bg=1a1b27)
 
 ---
 
