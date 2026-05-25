@@ -1,4 +1,4 @@
-<h1 align="center">Olá, sou o Miguel Perino 👋</h1>
+<h1 align="center">Olá, me chamo Miguel Perino 👋</h1>
 
 <p align="center">
   Estudante de Sistemas de Informação na <strong>UTFPR</strong> · Apaixonado por desenvolvimento de software e resolução de problemas
