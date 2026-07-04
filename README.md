@@ -20,7 +20,7 @@
 Sou estudante de Sistemas de Informação na UTFPR, com foco em desenvolvimento back-end. Estou construindo uma base sólida em Python e Java, criação de APIs REST, me aprofundando em Visão Computacional e Machine Learning, estruturas de dados e algoritmos — com um projeto de iniciação científica em otimização combinatória.
 
 - 🎓 Cursando **Sistemas de Informação** na UTFPR
-- 🐍 Desenvolvendo projetos em **Python** e **Flask**
+- 🐍 Desenvolvendo projetos em **Python** e **Flask**, com foco também em **Computer Vision** e **Machine Learning & IA**
 - ☕ Aprendendo **Java** (estudos e projetos em andamento)
 - 🔬 Pesquisa em algoritmos de otimização (TSP) na IC
 - 🌱 Sempre aprendendo — atualmente explorando boas práticas e arquitetura de software
