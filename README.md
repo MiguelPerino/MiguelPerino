@@ -58,6 +58,18 @@ Academic research implementing and comparing constructive and improvement heuris
 
 ---
 
+### 🖐️ [Hand Gesture Detector](https://github.com/MiguelPerino/hand-gesture-detector)
+Real-time hand gesture detector using the webcam, built with **MediaPipe** and **OpenCV**. Detects the hand's 21 landmarks and applies custom geometric logic (no pre-built classifiers) to recognize gestures like finger counting, peace sign, thumbs up/down, and hang loose. First Computer Vision project, with a Flask web interface in progress.
+`Python` · `OpenCV` · `MediaPipe` · `Flask`
+
+---
+
+### 📊 [Undergraduate Research — Job Shop Scheduling Problem (JSSP)](https://github.com/MiguelPerino/iniciacao-cientifica-JSSP)
+Academic research implementing dispatching rule heuristics (starting with SPT — Shortest Processing Time) to solve the Job Shop Scheduling Problem on classic benchmark instances (abz, ft, la, orb, swv). Computes the makespan for each instance and exports detailed schedules and summaries to CSV.
+`Python` · `Algorithms` · `Combinatorial Optimization` · `CSV`
+
+---
+
 ### 🛒 [Ecommerce API](https://github.com/MiguelPerino/Ecommerce-API)
 RESTful API for e-commerce with session authentication, product CRUD, and shopping cart. Built with Flask and SQLite.
 `Python` · `Flask` · `SQLAlchemy` · `Flask-Login` · `SQLite`
@@ -67,12 +79,6 @@ RESTful API for e-commerce with session authentication, product CRUD, and shoppi
 ### ✅ [To-Do List API](https://github.com/MiguelPerino/to-do-list-API)
 REST API for task management with session-based user registration/authentication, full task CRUD, and password hashing with Werkzeug.
 `Python` · `Flask` · `SQLite` · `Werkzeug`
-
----
-
-### 📚 [Digital Library System](https://github.com/MiguelPerino/sistemaBibliotecaDigital)
-Python CLI system to manage a book collection, loans, and returns with fine calculation and report generation. Binary file persistence using `struct`.
-`Python` · `CLI` · `struct` · `datetime`
 
 ---
 
