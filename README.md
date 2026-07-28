@@ -1,7 +1,7 @@
-<h1 align="center">Olá, sou o Miguel Perino 👋</h1>
+<h1 align="center">Hi, I'm Miguel Perino 👋</h1>
 
 <p align="center">
-  Estudante de Sistemas de Informação na <strong>UTFPR</strong> · Apaixonado por desenvolvimento de software e resolução de problemas
+  Information Systems student at <strong>UTFPR</strong> · Passionate about software development and problem solving
 </p>
 
 <p align="center">
@@ -14,19 +14,19 @@
 
 ---
 
-## Sobre mim
+## About me
 
-Sou estudante de Sistemas de Informação na UTFPR, com foco em desenvolvimento back-end. Estou construindo uma base sólida em Python e Java, criação de APIs REST, me aprofundando em Visão Computacional e Machine Learning, estruturas de dados e algoritmos — com um projeto de iniciação científica em otimização combinatória.
+I'm an Information Systems student at UTFPR, focused on back-end development. I'm building a solid foundation in Python and Java, creating REST APIs, and going deeper into Computer Vision and Machine Learning, data structures and algorithms — with an undergraduate research project in combinatorial optimization.
 
-- 🎓 Cursando **Sistemas de Informação** na UTFPR
-- 🐍 Desenvolvendo projetos em **Python** e **Flask**, com foco também em **Computer Vision** e **Machine Learning & IA**
-- ☕ Aprendendo **Java** (estudos e projetos em andamento)
-- 🔬 Pesquisa em algoritmos de otimização (TSP) na IC
-- 🌱 Sempre aprendendo — atualmente explorando boas práticas e arquitetura de software
+- 🎓 Studying **Information Systems** at UTFPR
+- 🐍 Building projects in **Python** and **Flask**, also focused on **Computer Vision** and **Machine Learning & AI**
+- ☕ Learning **Java** (ongoing studies and projects)
+- 🔬 Research on optimization algorithms (TSP) in undergraduate research
+- 🌱 Always learning — currently exploring best practices and software architecture
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Technologies & Tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
@@ -44,51 +44,51 @@ Sou estudante de Sistemas de Informação na UTFPR, com foco em desenvolvimento 
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Featured Projects
 
-### 🤖 [Chatbot com Histórico Persistente](https://github.com/MiguelPerino/chatbot-historico)
-Aplicação web de chatbot com IA (Google Gemini), histórico de conversas persistido no MongoDB Atlas e autenticação completa de usuários. Interface responsiva com sidebar, renderização de Markdown e geração automática de títulos via LLM.  
+### 🤖 [Chatbot with Persistent History](https://github.com/MiguelPerino/chatbot-historico)
+AI-powered web chatbot application (Google Gemini) with conversation history persisted in MongoDB Atlas and full user authentication. Responsive interface with sidebar, Markdown rendering, and automatic title generation via LLM.
 `Python` · `Flask` · `MongoDB Atlas` · `Google Gemini API` · `JavaScript` · `Gunicorn`
 
 ---
 
-### 🔬 [Iniciação Científica — Otimização de Rotas (TSP)](https://github.com/MiguelPerino/Iniciacao-cientifica)
-Pesquisa acadêmica implementando e comparando heurísticas construtivas e de melhoria para o Problema do Caixeiro Viajante (TSP): Nearest Neighbor, Farthest Insertion, Cheapest Insertion, Random Insertion, SPT e otimização 2-opt.  
-`Python` · `Algoritmos` · `Otimização Combinatória`
+### 🔬 [Undergraduate Research — Route Optimization (TSP)](https://github.com/MiguelPerino/Iniciacao-cientifica)
+Academic research implementing and comparing constructive and improvement heuristics for the Traveling Salesman Problem (TSP): Nearest Neighbor, Farthest Insertion, Cheapest Insertion, Random Insertion, SPT, and 2-opt optimization.
+`Python` · `Algorithms` · `Combinatorial Optimization`
 
 ---
 
 ### 🛒 [Ecommerce API](https://github.com/MiguelPerino/Ecommerce-API)
-API RESTful para e-commerce com autenticação de sessão, CRUD de produtos e carrinho de compras. Desenvolvida com Flask e SQLite.  
+RESTful API for e-commerce with session authentication, product CRUD, and shopping cart. Built with Flask and SQLite.
 `Python` · `Flask` · `SQLAlchemy` · `Flask-Login` · `SQLite`
 
 ---
 
 ### ✅ [To-Do List API](https://github.com/MiguelPerino/to-do-list-API)
-API REST para gerenciamento de tarefas com cadastro/autenticação de usuários por sessão, CRUD completo de tarefas e hash de senhas com Werkzeug.  
+REST API for task management with session-based user registration/authentication, full task CRUD, and password hashing with Werkzeug.
 `Python` · `Flask` · `SQLite` · `Werkzeug`
 
 ---
 
-### 📚 [Sistema de Biblioteca Digital](https://github.com/MiguelPerino/sistemaBibliotecaDigital)
-Sistema CLI em Python para gerenciar acervo de livros, empréstimos, devoluções com cálculo de multas e geração de relatórios. Persistência em arquivo binário com `struct`.  
+### 📚 [Digital Library System](https://github.com/MiguelPerino/sistemaBibliotecaDigital)
+Python CLI system to manage a book collection, loans, and returns with fine calculation and report generation. Binary file persistence using `struct`.
 `Python` · `CLI` · `struct` · `datetime`
 
 ---
 
 ### 📝 [To-Do List (Frontend)](https://github.com/MiguelPerino/to-do-list)
-Aplicação de lista de tarefas com interface web simples.  
+Task list application with a simple web interface.
 `HTML` · `CSS` · `JavaScript`
 
 ---
 
 ### 🧹 [Playlist Clean Code](https://github.com/MiguelPerino/Playlist-CleanCode)
-Estudos e exercícios práticos sobre princípios de código limpo em Python.  
-`Python` · `Clean Code` · `Boas Práticas`
+Studies and hands-on exercises on clean code principles in Python.
+`Python` · `Clean Code` · `Best Practices`
 
 ---
 
-## 💻 Linguagens mais usadas
+## 💻 Most Used Languages
 
 ![Python](https://img.shields.io/badge/Python-70%25-3776AB?style=flat&logo=python&logoColor=white)
 ![](https://progress-bar.xyz/70/?width=400&color=3776AB&bg=1a1b27)
@@ -107,16 +107,16 @@ Estudos e exercícios práticos sobre princípios de código limpo em Python.
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 <p>
   <a href="https://www.linkedin.com/in/miguel-perino/">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MiguelPerino&color=blueviolet&style=flat" alt="Visualizações do perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=MiguelPerino&color=blueviolet&style=flat" alt="Profile views"/>
 </p>
