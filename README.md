@@ -64,7 +64,7 @@ Real-time hand gesture detector using the webcam, built with **MediaPipe** and *
 
 ---
 
-### 📊 [Undergraduate Research — Job Shop Scheduling Problem (JSSP)](https://github.com/MiguelPerino/iniciacao-cientifica-JSSP)
+### 📊 [Undergraduate Research — Job Shop Scheduling Problem (JSSP)](https://github.com/MiguelPerino/JSSP-IC)
 Academic research implementing dispatching rule heuristics (starting with SPT — Shortest Processing Time) to solve the Job Shop Scheduling Problem on classic benchmark instances (abz, ft, la, orb, swv). Computes the makespan for each instance and exports detailed schedules and summaries to CSV.
 `Python` · `Algorithms` · `Combinatorial Optimization` · `CSV`
 
